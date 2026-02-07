@@ -65,5 +65,6 @@ Honors And Awards
 Service and leadership
 ======
 * Rice University SIAM Student Chapter Vice President (2025-2026)
-* University Committee On Teaching (2023-2024)
 * University Committee On Research (2023-2024, 2025-2026)
+* Rice Numerical Analysis and Scientific Computing Ranch Retreat Committee (2023-2024, 2024-2025)
+* University Committee On Teaching (2023-2024)
