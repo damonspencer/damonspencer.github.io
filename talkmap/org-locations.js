@@ -5,7 +5,7 @@ var addressPoints = [
     -95.3676974
   ],
   [
-    "A New Approach For Solving The Mixed Integer PDE Constrained Source Inversion Problem<br />University of Edinburgh; Edinburgh, UK",
+    "A New Approach For Solving The Mixed Integer PDE Constrained Source Inversion Problem<br />SIAM Conference on Optimization 2026; Edinburgh, UK",
     55.9533456,
     -3.1883749
   ]
