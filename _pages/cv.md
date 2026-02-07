@@ -55,10 +55,8 @@ Talks
 Poster Presentations
 ======
 * "A New Approach For Solving The Mixed Integer PDE Constrained Source Inversion Problem", SIAM TX-LA 2025, Austin, TX
-* "", Rice Numerical Analysis And Scientific Computing Ranch Retreat 2024, Houston, TX
-* "Solution of mixed integer PDE constrained source inver-
-sion problem", Rice Numerical Analysis And Scientific Computing 2nd Annual Workshop, Houston, TX
-* "", SIAM TX-LA 2024, Waco, TX
+* "Solution Of Mixed Integer PDE Constrained Source Inversion Problem", Rice Numerical Analysis And Scientific Computing 2nd Annual Workshop, Houston, TX
+* "Solution Of Mixed Integer PDE Constrained Source Inversion Problem", SIAM TX-LA 2024, Waco, TX
 
 Honors And Awards
 ======
