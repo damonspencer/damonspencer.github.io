@@ -54,8 +54,11 @@ Talks
   
 Poster Presentations
 ======
-* 
-
+* "A New Approach For Solving The Mixed Integer PDE Constrained Source Inversion Problem", SIAM TX-LA 2025, Austin, TX
+* "", Rice Numerical Analysis And Scientific Computing Ranch Retreat 2024, Houston, TX
+* "Solution of mixed integer PDE constrained source inver-
+sion problem", Rice Numerical Analysis And Scientific Computing 2nd Annual Workshop, Houston, TX
+* "", SIAM TX-LA 2024, Waco, TX
 
 Honors And Awards
 ======
@@ -68,3 +71,7 @@ Service and leadership
 * University Committee On Research (2023-2024, 2025-2026)
 * Rice Numerical Analysis and Scientific Computing Ranch Retreat Committee (2023-2024, 2024-2025)
 * University Committee On Teaching (2023-2024)
+
+Mentoring
+======
+* Mentored a High school student on STEM and College Readiness (2023-2024)
