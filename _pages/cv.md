@@ -41,6 +41,10 @@ Publications
   <ul>{% for post in site.publications reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
+
+Patent Applications
+======
+  * PCT/US2023/079434, patent pending
   
 Talks
 ======
