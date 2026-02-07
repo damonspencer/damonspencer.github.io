@@ -23,6 +23,7 @@ Work experience
   * Created a 5G dataset currently available on github as part of a paper accepted
   * Submitted a paper to 2022 IEEE Global communications workshops, which was accepted
   * co-inventor on a patent application
+
 Skills
 ======
 * Mixed Integer PDE Constrained Optimization
@@ -33,6 +34,7 @@ Skills
 * MATLAB
 * C
 * C++
+* Reinforcement learning
 
 Publications
 ======
@@ -46,12 +48,18 @@ Talks
     {% include archive-single-talk-cv.html  %}
   {% endfor %}</ul>
   
-Teaching
+Poster Presentations
 ======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+* 
+
+
+Honors And Awards
+======
+* NSF Graduate Resarch Fellowship (2023-2028)
+* Best Poster Award : SIAM TX-LA 2025
   
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* Rice University SIAM Student Chapter Vice President (2025-2026)
+* University Committee On Teaching (2023-2024)
+* University Committee On Research (2023-2024, 2025-2026)
