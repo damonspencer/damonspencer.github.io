@@ -7,5 +7,4 @@ excerpt: 'This paper describes a method for doing machine learning for 5G networ
 date: 2022-12-4
 venue: '2022 IEEE Globecom Workshops'
 paperurl: 'https://ieeexplore.ieee.org/abstract/document/10008647'
-citation: 'Your Name, You. (2024). &quot;Paper Title Number 3.&quot; <i>GitHub Journal of Bugs</i>. 1(3).'
 ---
